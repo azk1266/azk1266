@@ -1,7 +1,7 @@
 Hi 👋 My name is Azaliia Agisheva
 =================================
 
-Software Quality Assurance Tester
+Software Quality Assurance Engineer
 ---------------------------------
 
 * 🎓  I have Bachelor's degree in Computer Science
