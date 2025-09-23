@@ -4,10 +4,7 @@ Hi 👋 My name is Azaliia Agisheva
 Software Quality Assurance Engineer
 ---------------------------------
 
-* 🎓  I have Bachelor's degree in Computer Science
-* ✉️  You can contact me at [azk1266@gmail.com](mailto:azk1266@gmail.com)
-* 🧠  I'm learning Automation testing
-* 🔎  I'm currently seeking for a job.
+
 
 ### Skills
 
