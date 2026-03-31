@@ -32,17 +32,18 @@ Software Quality Assurance Engineer
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb" width="36" height="36" alt="MongoDB"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" width="36" height="36" alt="Keras" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow" width="36" height="36" alt="TensorFlow"/></a>
+<a href="https://keras.io/" target="_blank"><img src="https://cdn.simpleicons.org/keras" width="36" height="36" alt="Keras"/></a>
 
-<a href="https://river.ml/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="36" height="36" alt="River" /></a>
+<a href="https://river.ml/" target="_blank"><img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="River"/></a>
 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="36" height="36" alt="Tableau" /></a>
+<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.simpleicons.org/tableau" width="36" height="36" alt="Tableau"/></a>
 
-<a href="https://en.wikipedia.org/wiki/Answer_set_programming" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prolog.svg" width="36" height="36" alt="Answer Set Programming" /></a>
+<a href="https://en.wikipedia.org/wiki/Answer_set_programming" target="_blank"><img src="https://cdn.simpleicons.org/prolog" width="36" height="36" alt="Answer Set Programming"/></a>
+
 </p>
 
 ### Socials
