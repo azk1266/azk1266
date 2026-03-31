@@ -7,43 +7,8 @@ Software Quality Assurance Engineer
 
 
 ### Skills
-
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenium.svg" width="36" height="36" alt="Selenium" /></a>
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playwright.svg" width="36" height="36" alt="Playwright" /></a>
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="36" height="36" alt="Cypress" /></a>
-
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="36" height="36" alt="Postman" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb" width="36" height="36" alt="MongoDB"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
-
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/tensorflow" width="36" height="36" alt="TensorFlow"/></a>
-<a href="https://keras.io/" target="_blank"><img src="https://cdn.simpleicons.org/keras" width="36" height="36" alt="Keras"/></a>
-
-<a href="https://river.ml/" target="_blank"><img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="River"/></a>
-
-<a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.simpleicons.org/tableau" width="36" height="36" alt="Tableau"/></a>
-
-<a href="https://en.wikipedia.org/wiki/Answer_set_programming" target="_blank"><img src="https://cdn.simpleicons.org/prolog" width="36" height="36" alt="Answer Set Programming"/></a>
-
+<p align="left" style="white-space: nowrap;">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium" width="36" height="36" alt="Selenium" /></a><a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="Playwright" /></a><a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cypress" width="36" height="36" alt="Cypress" /></a><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postman" width="36" height="36" alt="Postman" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mongodb" width="36" height="36" alt="MongoDB" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tensorflow" width="36" height="36" alt="TensorFlow" /></a><a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/keras" width="36" height="36" alt="Keras" /></a><a href="https://river.ml/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="River" /></a>
 </p>
 
 ### Socials
