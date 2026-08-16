@@ -1,7 +1,7 @@
 Hi 👋 My name is Azaliia Agisheva
 =================================
 
-Software Quality Assurance Engineer
+AI Engineer / ML Engineer
 ---------------------------------
 
 
