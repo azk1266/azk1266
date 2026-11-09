@@ -1,7 +1,7 @@
 Hi 👋 My name is Azaliia Agisheva
 =================================
 
-AI Engineer / ML Engineer
+QA Engineer / AI Engineer
 ---------------------------------
 
 
